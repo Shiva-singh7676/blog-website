@@ -1,5 +1,5 @@
 
-# [ByteBlog]
+# ByteBlog
 
 A [modern/minimalist/feature-rich] blog website built with [Your Tech Stack]. This project demonstrates [what you want to showcase, e.g., full-stack development, responsive design, API integration].
 
@@ -40,3 +40,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
